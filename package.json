@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@aave/protocol-v2": "^1.0.1",
+    "@openzeppelin/contracts": "^4.8.0",
     "hardhat": "^2.12.5"
   },
   "devDependencies": {
